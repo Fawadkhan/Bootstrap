@@ -2,7 +2,7 @@ $lt-gray: #ddd;
 $background-dark: #512DA8;
 $background-light: #9575CD;
 $background-pale: #D1C4E9;
-$floral-white: #fffaf0;
+$floral-white: #FFFAF0;
 
 // Height variables
 $carousel-item-height: 300px;
@@ -76,13 +76,18 @@ body{
 }
 
 .modal-body {
-     background-color: $background-light;
-    .modal-title {
-        color: $floral-white;
+     background-color: $background-light;   
     }
-}
+
+
+//nested Header and cross "X" 
 
 .modal-header {
-
     background-color: $background-dark;
+    .modal-title {
+             color: $floral-white;
+            }
+    .close {
+        color: $floral-white;
+    }
 }

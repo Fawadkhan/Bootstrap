@@ -54,8 +54,10 @@ body {
 
 .modal-body {
   background-color: #9575CD; }
-  .modal-body .modal-title {
-    color: #fffaf0; }
 
 .modal-header {
   background-color: #512DA8; }
+  .modal-header .modal-title {
+    color: #FFFAF0; }
+  .modal-header .close {
+    color: #FFFAF0; }
