@@ -19,5 +19,13 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fawadkhan/Bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fawadkhan/Bootstrap/issues"
+  },
+  "homepage": "https://github.com/Fawadkhan/Bootstrap#readme"
 }
